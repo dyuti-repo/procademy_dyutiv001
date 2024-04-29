@@ -1,0 +1,6 @@
+This is just an example for nodeJs file system!.
+ 
+
+The content of the file will be appended to input.txt and will be written in output.txt
+
+Date created Tue Apr 23 2024 15:22:49 GMT+0530 (India Standard Time)
